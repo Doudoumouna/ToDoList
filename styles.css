@@ -1,0 +1,26 @@
+body {
+  padding-top: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin-top: 20px;
+}
+
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.collection-item .buttons {
+  display: flex;
+  gap: 5px;
+}
+
+.collection-item .buttons button {
+  margin-left: 10px;
+}
